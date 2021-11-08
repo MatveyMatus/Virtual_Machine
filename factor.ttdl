@@ -1,0 +1,12 @@
+input 10
+input 13
+input 11
+>
+ifint 10 11
+% % % %
+exit 13
+% % % %
+++ 11
+% % % %
+mult 11 13 13
+return

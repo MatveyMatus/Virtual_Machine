@@ -1,0 +1,13 @@
+input 10
+input 11
+>
+ifint 10 11 
+% % % %
+exit 10
+% % % %
+ifleft> 10 11 sub 10 11 10
+% % % %
+return
+ifright> 10 11 sub 11 10 11
+% % % %
+return
